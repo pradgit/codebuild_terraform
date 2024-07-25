@@ -4,7 +4,7 @@ phases:
   install:
     commands:
       - "cd /usr/bin"
-      - echo "[Info] Installing required Packages"
+      - echo "[Info] Installing required Packages Check new feature for github learn"
       - echo "[Warn] Some Packages are deprecated!"
       - echo "[Info] All Packages are installed."
 
