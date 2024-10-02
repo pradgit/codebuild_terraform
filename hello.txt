@@ -1,2 +1,4 @@
 hello
 This is a sample text file.
+Learning how to merge the files.
+CICD project...
