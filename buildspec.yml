@@ -12,12 +12,12 @@ phases:
     commands:
       - cd "$CODEBUILD_SRC_DIR"
       - echo "[Info] Provisioning required Infrastructure."
-      - echo "[Info] Code Build Started!"
+      - echo "[Info] Code Build Started LiveProject3!"
       - echo "[Warn] CPU utilization is above threshold. Add more resources!"
       - echo "[Info] Code Build Completed"
       - echo "[Info] Awaiting for test cases to run"
       - echo "[Info] Test cases are passed 45/45"
-      - echo "[Info] Unit test passed"
+      - echo "[Info] Unit test passed - Live Project 3"
       
   post_build:
     commands:
